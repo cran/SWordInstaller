@@ -1,0 +1,2 @@
+# exported symbols from SWordInstaller
+export(installSWord)

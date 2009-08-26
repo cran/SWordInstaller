@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "Package 'SWordInstaller' can only be installed/used under Windows."
+exit 1
